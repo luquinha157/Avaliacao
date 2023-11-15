@@ -1,7 +1,9 @@
 # Avaliacao
 Avaliação sobre Django
 <h1 align="center">Configurações Iniciais do Django</h1>
+
 ## O que é o Django e qual é o seu propósito principal no desenvolvimento web?
+
 :point_right: O Django é um framework de desenvolvimento web em Python que segue o padrão arquitetural Model-View-Controller (MVC). 
 
 :point_right: Seu propósito principal é facilitar a construção de aplicativos web robustos, escaláveis e seguros, permitindo que os desenvolvedores foquem no desenvolvimento de funcionalidades específicas.
@@ -28,4 +30,11 @@ O Django possui várias características distintivas que o diferenciam de outros
 ## Explique o conceito de "Model-View-Controller" (MVC) e como ele se aplica ao Django.
 O conceito de Model-View-Controller (MVC) é um padrão arquitetural amplamente utilizado no desenvolvimento de software, incluindo frameworks web. O MVC divide uma aplicação em três componentes principais, cada um com uma responsabilidade específica:
 
-Model (Modelo): Representa a camada de dados e lógica de negócios da aplicação. Ele gerencia o acesso e a manipulação dos dados, bem como as regras de negócios. No contexto de um framework web como Django, o modelo está frequentemente associado ao banco de dados e é responsável por representar e manipular os dados.
+🔧 Model (Modelo): Representa a camada de dados e lógica de negócios da aplicação. Ele gerencia o acesso e a manipulação dos dados, bem como as regras de negócios. No contexto de um framework web como Django, o modelo está frequentemente associado ao banco de dados e é responsável por representar e manipular os dados.
+
+🔧 View (Visão): Responsável por apresentar os dados ao usuário e lidar com a interface do usuário. A view exibe as informações do modelo e interage com o usuário. No contexto web, isso muitas vezes se traduz na apresentação de páginas HTML ou outros formatos de saída.
+
+🔧 Controller (Controlador): Gerencia a comunicação entre o modelo e a visão. Ele recebe as entradas do usuário, processa-as e atualiza o modelo ou a visão conforme necessário. No contexto web, o controlador lida com as requisições do usuário, decide qual parte do código deve ser executada e como os dados devem ser atualizados.
+
+
+
