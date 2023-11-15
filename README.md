@@ -10,7 +10,7 @@ Avaliação sobre Django
 
 :point_right: Ao invés de lidar com tarefas repetitivas e complexas relacionadas à manipulação de bancos de dados, gerenciamento de URLs, autenticação de usuários, entre outros.
 
-## Quais são as principais características do framework Django que o diferenciam de outros frameworks web em Python?
+### Quais são as principais características do framework Django que o diferenciam de outros frameworks web em Python?
 O Django possui várias características distintivas que o diferenciam de outros frameworks web em Python. Algumas das principais características incluem:
 
 :point_right: ORM Integrado (Object-Relational Mapping): Django inclui um ORM que mapeia objetos Python para tabelas de banco de dados, facilitando a interação com o banco de dados sem a necessidade de escrever SQL diretamente.
