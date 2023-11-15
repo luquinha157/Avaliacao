@@ -1,6 +1,6 @@
 # Avaliacao
 Avaliação sobre Django
-# Configurações iniciais sobre Django:
+<h1 align="center">Configurações Iniciais do Django</h1>
 ## O que é o Django e qual é o seu propósito principal no desenvolvimento web?
 :point_right: O Django é um framework de desenvolvimento web em Python que segue o padrão arquitetural Model-View-Controller (MVC). 
 
@@ -24,3 +24,8 @@ O Django possui várias características distintivas que o diferenciam de outros
 :point_right: Padrão MTV (Model-Template-View): Enquanto muitos frameworks web seguem o padrão MVC (Model-View-Controller), Django segue o padrão MTV, onde o Controller é substituído pelo Template. Essa abordagem é considerada mais adequada para o desenvolvimento web.
 
 :point_right: Documentação Abundante: Django é conhecido por sua documentação extensa e bem escrita, facilitando o aprendizado e a resolução de problemas.
+
+## Explique o conceito de "Model-View-Controller" (MVC) e como ele se aplica ao Django.
+O conceito de Model-View-Controller (MVC) é um padrão arquitetural amplamente utilizado no desenvolvimento de software, incluindo frameworks web. O MVC divide uma aplicação em três componentes principais, cada um com uma responsabilidade específica:
+
+Model (Modelo): Representa a camada de dados e lógica de negócios da aplicação. Ele gerencia o acesso e a manipulação dos dados, bem como as regras de negócios. No contexto de um framework web como Django, o modelo está frequentemente associado ao banco de dados e é responsável por representar e manipular os dados.
